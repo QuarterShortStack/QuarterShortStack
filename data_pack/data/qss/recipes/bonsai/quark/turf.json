@@ -1,0 +1,15 @@
+{
+  "type": "bonsaitrees2:soil",
+
+  "soil": {
+    "item": "quark:turf"
+  },
+
+  "display": {
+    "block": "quark:turf"
+  },
+
+  "tickModifier": 1.1,
+
+  "compatibleSoilTags": ["grass"]
+}

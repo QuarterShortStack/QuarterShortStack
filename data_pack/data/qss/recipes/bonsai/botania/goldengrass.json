@@ -1,0 +1,11 @@
+{
+  "type": "bonsaitrees2:soil",
+  "soil": {
+    "item": "botania:golden_grass"
+  },
+  "display": {
+    "block": "botania:golden_grass"
+  },
+  "compatibleSoilTags": ["grass"],
+  "tickModifier": 1.1
+}

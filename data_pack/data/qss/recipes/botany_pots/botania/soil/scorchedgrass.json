@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "botania:scorched_grass"
+  },
+  "display": {
+    "block": "botania:scorched_grass"
+  },
+  "categories": ["dirt", "coarse_dirt", "soul_sand"],
+  "ticks": 350
+}

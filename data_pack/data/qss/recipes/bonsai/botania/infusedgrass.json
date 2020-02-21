@@ -1,0 +1,11 @@
+{
+  "type": "bonsaitrees2:soil",
+  "soil": {
+    "item": "botania:infused_grass"
+  },
+  "display": {
+    "block": "botania:infused_grass"
+  },
+  "compatibleSoilTags": ["dirt", "end_stone", "sand"],
+  "tickModifier": 1.2
+}

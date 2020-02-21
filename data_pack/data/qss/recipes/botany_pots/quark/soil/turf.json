@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "quark:turf"
+  },
+  "display": {
+    "block": "quark:turf"
+  },
+  "categories": ["dirt", "grass"],
+  "ticks": 240
+}

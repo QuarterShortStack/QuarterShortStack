@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "snad:snad"
+  },
+  "display": {
+    "block": "minecraft:sand"
+  },
+  "categories": ["sand"],
+  "ticks": 150
+}

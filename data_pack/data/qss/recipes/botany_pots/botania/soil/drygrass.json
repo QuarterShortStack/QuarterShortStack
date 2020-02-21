@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "botania:dry_grass"
+  },
+  "display": {
+    "block": "botania:dry_grass"
+  },
+  "categories": ["dirt", "grass"],
+  "ticks": 240
+}

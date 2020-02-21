@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "randomthings:fertilized_dirt"
+  },
+  "display": {
+    "block": "randomthings:fertilized_dirt"
+  },
+  "categories": ["dirt", "farmland"],
+  "ticks": 150
+}

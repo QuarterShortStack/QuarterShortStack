@@ -1,0 +1,11 @@
+{
+  "type": "bonsaitrees2:soil",
+  "soil": {
+    "item": "botania:mutated_grass"
+  },
+  "display": {
+    "block": "botania:mutated_grass"
+  },
+  "compatibleSoilTags": ["netherrack"],
+  "tickModifier": 1.5
+}

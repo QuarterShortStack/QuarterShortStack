@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "botania:mutated_grass"
+  },
+  "display": {
+    "block": "botania:mutated_grass"
+  },
+  "categories": ["dirt", "soul_sand"],
+  "ticks": 350
+}

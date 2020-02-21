@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "botania:infused_grass"
+  },
+  "display": {
+    "block": "botania:infused_grass"
+  },
+  "categories": ["dirt", "coarse_dirt", "end_stone", "farmland", "mushroom", "podzol","sand", "red_sand"],
+  "ticks": 500
+}

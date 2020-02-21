@@ -1,0 +1,11 @@
+{
+  "type": "bonsaitrees2:soil",
+  "soil": {
+    "item": "botania:dry_grass"
+  },
+  "display": {
+    "block": "botania:dry_grass"
+  },
+  "compatibleSoilTags": ["dirt", "grass"],
+  "tickModifier": 0.9
+}
