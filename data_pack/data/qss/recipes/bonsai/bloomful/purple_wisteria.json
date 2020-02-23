@@ -1,16 +1,11 @@
 {
   "type": "bonsaitrees2:sapling",
+
   "sapling": {
-    "item": "bloomful:purple_wisteria_sapling"
+    "item": "bloomful:pruple_qisteria_sapling"
   },
+
   "drops": [
-    {
-      "result": {
-        "item": "bloomful:wisteria_log"
-      },
-      "rolls": 1,
-      "chance": 0.75
-    },
     {
       "result": {
         "item": "minecraft:stick"
@@ -18,30 +13,39 @@
       "rolls": 3,
       "chance": 0.2
     },
+
     {
       "result": {
-        "item": "bloomful:purple_wisteria_leaves"
+        "item": "bloomful:wisteria_log"
+      },
+      "rolls": 1,
+      "chance": 0.75
+    },
+
+    {
+      "result": {
+        "item": "bloomful:pruple_wisteria_leaves"
       },
       "rolls": 1,
       "chance": 0.1
     },
+
     {
       "result": {
-        "item": "bloomful:purple_wisteria_vine"
+        "item": "bloomful:pruple_wisteria_vine"
       },
       "rolls": 1,
-      "chance": 0.06
+      "chance": 0.1
     },
+
     {
       "result": {
-        "item": "bloomful:purple_wisteria_sapling"
+        "item": "bloomful:pruple_qisteria_sapling"
       },
       "rolls": 1,
       "chance": 0.05
     }
   ],
-  "compatibleSoilTags": [
-    "grass",
-    "dirt"
-  ]
+
+  "compatibleSoilTags": ["dirt", "grass"]
 }
