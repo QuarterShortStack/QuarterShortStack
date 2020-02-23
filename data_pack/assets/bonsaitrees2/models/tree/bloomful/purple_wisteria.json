@@ -1,0 +1,114 @@
+{
+  "type": "bonsaitrees2:sapling/bloomful/purple_wisteria",
+  "version": 3,
+  "ref": {
+    "a": {"block":"bloomful:purple_wisteria_leaves","properties":{"distance":"2","persistent":"false"}},
+    "b": {"block":"bloomful:purple_wisteria_leaves","properties":{"distance":"4","persistent":"false"}},
+    "c": {"block":"bloomful:purple_wisteria_leaves","properties":{"distance":"3","persistent":"false"}},
+    "d": {"block":"bloomful:purple_wisteria_leaves","properties":{"distance":"5","persistent":"false"}},
+    "e": {"block":"bloomful:purple_wisteria_leaves","properties":{"distance":"6","persistent":"false"}},
+    "f": {"block":"bloomful:purple_wisteria_leaves","properties":{"distance":"7","persistent":"false"}},
+    "g": {"block":"bloomful:purple_wisteria_vine","properties":{"half":"lower"}},
+    "h": {"block":"bloomful:purple_wisteria_vine","properties":{"half":"upper"}},
+    "i": {"block":"bloomful:wisteria_log","properties":{"axis":"y"}},
+    "j": {"block":"bloomful:purple_wisteria_leaves","properties":{"distance":"1","persistent":"false"}}
+  },
+  "shape": [
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "   d    ",
+      "   b    ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "  fed   ",
+      " fedbd  ",
+      " edbcb  ",
+      " dbc b  ",
+      " ed  d  ",
+      "  h  e  ",
+      "  g     ",
+      "        "
+    ],
+    [
+      "        ",
+      "  fed   ",
+      " fedbd  ",
+      "fedbcbd ",
+      "edbcacb ",
+      "  caacb ",
+      "   c    ",
+      "   b    ",
+      "   h    ",
+      "   g    "
+    ],
+    [
+      "        ",
+      " fedbd  ",
+      "fedbcbd ",
+      "edbcacb ",
+      "dbcajac ",
+      " cajja  ",
+      "  c     ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "   d    ",
+      " edbcb  ",
+      "edbcacb ",
+      "dbcajac ",
+      "bcajijac",
+      " b ii cb",
+      "   ii   ",
+      "   i    ",
+      "   i    ",
+      "   i    "
+    ],
+    [
+      "        ",
+      " fedbd  ",
+      "fedbcbd ",
+      "edbcacb ",
+      "dbcajac ",
+      "ed j cb ",
+      "     bh ",
+      "      g ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "  fed   ",
+      " fedbd  ",
+      "fedbcbd ",
+      "edbcacb ",
+      "  ca    ",
+      "  h     ",
+      "  g     ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "  fed   ",
+      " fedbd  ",
+      " edbcb  ",
+      " db     ",
+      "  d     ",
+      "  e     ",
+      "  h     ",
+      "  g     "
+    ]
+  ]
+}

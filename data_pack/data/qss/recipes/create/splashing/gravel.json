@@ -1,0 +1,27 @@
+{
+    "type": "create:splashing",
+    "group": "minecraft:misc",
+    "ingredients": [
+    	{
+    		"item": "minecraft:gravel"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "minecraft:flint",
+			"count": 1,
+			"chance": 0.25
+		},
+		{
+			"item": "vanillafoodpantry:red_flint",
+			"count": 1,
+			"chance": 0.125
+		},
+		{
+			"item": "minecraft:iron_nugget",
+			"count": 1,
+			"chance": 0.125
+		}
+	],
+	"processingTime": 100
+}
