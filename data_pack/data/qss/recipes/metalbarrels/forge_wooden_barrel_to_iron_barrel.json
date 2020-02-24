@@ -7,7 +7,7 @@
     ],
     "key":{
         "i":{"tag":"forge:ingots/iron"},
-        "b":{"item":"charm:barrel_acacia"}
+        "b":{"tag":"forge:barrel/wooden"}
     },
     "result":{"item":"metalbarrels:iron_barrel"}
 }

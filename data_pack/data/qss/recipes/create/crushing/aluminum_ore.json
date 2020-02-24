@@ -1,0 +1,26 @@
+{
+    "type": "create:crushing",
+    "group": "minecraft:misc",
+    "ingredients": [
+    	{
+    		"item": "tmechworks:aluminum_ore"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "tmechworks:aluminum_ingot",
+			"count": 1
+		},
+		{
+			"item": "tmechworks:aluminum_nugget",
+			"count": 9,
+			"chance": 0.5
+		},
+		{
+			"item": "minecraft:cobblestone",
+			"count": 1,
+			"chance": 0.125
+		}
+	],
+	"processingTime": 400
+}

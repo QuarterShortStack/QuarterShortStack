@@ -6,6 +6,6 @@
   "display": {
     "block": "botania:infused_grass"
   },
-  "categories": ["dirt", "coarse_dirt", "end_stone", "farmland", "mushroom", "podzol","sand", "red_sand"],
+  "categories": ["dirt", "coarse_dirt", "end_stone", "farmland", "mushroom", "podzol","sand", "red_sand", "magical"],
   "ticks": 500
 }

@@ -1,0 +1,36 @@
+{
+  "type": "botanypots:crop",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    }
+  ],
+  "seed": {
+    "item": "botania:white_mystical_flower"
+  },
+  "categories":["magical"],
+  "growthTicks": 30,
+  "growthModifier": 1.9,
+  "display": {
+    "block": "botania:white_mystical_flower"
+  },
+  "results": [
+    {
+      "chance": 0.75,
+      "output": {
+        "item": "botania:white_mystical_flower"
+      },
+      "minRolls": 1,
+      "maxRolls": 2
+    },
+	{
+      "chance": 0.20,
+      "output": {
+        "item": "botania:white_mystical_flower"
+      },
+      "minRolls": 1,
+      "maxRolls": 1
+    }
+  ]
+}
