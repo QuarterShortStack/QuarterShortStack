@@ -1,0 +1,29 @@
+{
+  "blockGroups": [
+    [
+      "tag:minecraft:leaves"
+    ],
+    [
+      "tag:minecraft:dirt_like"
+    ],
+    [
+      "tag:minecraft:logs"
+    ],
+    [
+      "tag:minecraft:flower_pots"
+    ]
+  ],
+  "strictSubtypes": [
+    "tag:minecraft:crops",
+    "minecraft:beetroots",
+    "minecraft:carrots",
+    "minecraft:potatoes",
+    "minecraft:wheat",
+    "minecraft:melon_stem",
+    "minecraft:pumpkin_stem"
+  ],
+  "gamestages": {
+    "examplemod:example_block1": "example_stage1",
+    "examplemod:example_block2": "example_stage2"
+  }
+}
