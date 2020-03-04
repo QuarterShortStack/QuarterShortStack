@@ -1,0 +1,11 @@
+Iron Furnaces update
+VanillaFoodPantry update
+Extra Boats update
+Dark Utilities update
+Carrots Library update
+Steve's Factory Manager Reborn update
+--------------------------------------
+Added Modular Routers
+Added Ore Excavation (Along with custom config to only allow for ore excavation underground)
+--------------------------------------
+Removed Item Filters (not actually being used for anything, is only a library mod)
